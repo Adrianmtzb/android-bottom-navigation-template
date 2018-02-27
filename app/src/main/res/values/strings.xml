@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">bottom-navigation</string>
+    <string name="menu_1">Home</string>
+    <string name="menu_2">Section 1</string>
+    <string name="menu_3">Section 2</string>
+    <string name="menu_4">Settings</string>
+    <string name="press_back_exit">Press BACK again to exit</string>
+    <string name="alerts">Alerts</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="register_later">Explore the app</string>
+</resources>
